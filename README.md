@@ -1,6 +1,6 @@
 # Hatch Sticker
 
-This is a fun HTML and CSS project that creates a cute sticker of a cartoon character. The sticker includes features like eyes, nose, mouth, ears, and legs, all designed using HTML and styled using CSS. When hovering over the sticker, there are animations applied to the eyes and mouth to add an interactive element.
+This is a fun HTML and CSS project that creates a cute sticker of a cartoon character. The sticker includes features like eyes, nose, mouth, ears, and legs, all designed using HTML and styled using CSS. When hovering over the sticker, there are animations applied to the eyes and mouth to add an interactive element .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Animated-Hatch-Sticker/assets/59678435/9a64522a-f909-4c58-b60e-e389803d40eb)
